@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProyectacoGeofences</string>
+    <string name="nombreApp">GeoPoint</string>
+
+    <string name="loging">Loging</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="esperandoGPS">Esperando señal de GPS...</string>
+    <string name="esperandoCalle">Esperando el nombre de la calle...</string>
+    <string name="esperandoRuta">Calculando distancia a tu destino...</string>
+
+    <string name="sinInternet">Esta app no se puede usar sin internet</string>
+    <string name="sinGPS">Esta app no se puede usar sin internet</string>
+
+</resources>
